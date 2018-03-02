@@ -7,5 +7,5 @@ The FTP server and client respect the RFC 959 (http://www.ietf.org/rfc/rfc959.tx
 Therefore they can be tested with any FTP server or client.
 
 <code>
-usage: ./server <IP> <PORT>
+usage: make && ./server <IP> <PORT>
 </code>
